@@ -183,8 +183,8 @@ Track patients in the waiting list and update their status.
 * **404 API errors** → Make sure backend is running and `API_BASE` in frontend points to correct backend URL.
 * **Database connection errors** → Ensure MySQL is running in XAMPP and credentials match `.env`.
 
+---
+
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-```
