@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+th, td {
+  padding-left: 1.0rem; /* 8px, same as px-2 */
+  padding-right: 1.0rem;
+}
+
+.doctors-table, .doctors-table th, .doctors-table td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
