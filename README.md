@@ -1,6 +1,6 @@
 # 🏥 Clinic Front Desk - Full Stack Application
 
-A complete clinic management web application for handling **doctor schedules**, **patient appointments**, and **queue management** with role-based authentication.
+A complete clinic management web application for handling **doctor schedules**, **patient appointments**, and **queue management** with secure tokenized authentication.
 
 ---
 
